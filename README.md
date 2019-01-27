@@ -39,5 +39,22 @@ So it might be possible for new learners to attack this blog.
 | user     | user     |
 
 ## Screenshots
+### 1. Login
+![Login](https://raw.githubusercontent.com/ClavinJune/CVWebApp/master/screenshots/login.png)
+
+### 2. Home
+![Home](https://raw.githubusercontent.com/ClavinJune/CVWebApp/master/screenshots/home.png)
+
+### 3. Add Post
+![Add Post](https://raw.githubusercontent.com/ClavinJune/CVWebApp/master/screenshots/add-post.png)
+
+### 4. Stored XSS Example 1
+![Stored XSS](https://raw.githubusercontent.com/ClavinJune/CVWebApp/master/screenshots/stored-xss-1.png)
+
+### 5. Stored XSS Example 2
+![Stored XSS](https://raw.githubusercontent.com/ClavinJune/CVWebApp/master/screenshots/stored-xss-2.png)
+
+### 6. About
+![About](https://raw.githubusercontent.com/ClavinJune/CVWebApp/master/screenshots/about.png)
 
 ### All rights reserved | Clavin June 2019

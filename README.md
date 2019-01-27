@@ -32,4 +32,12 @@ $ php -S 0.0.0.0:8000
 # ALL EASY!
 So it might be possible for new learners to attack this blog.
 
+## Credentials
+| username | password |
+| -------- | -------- |
+| admin    | admin    |
+| user     | user     |
+
+## Screenshots
+
 ### All rights reserved | Clavin June 2019

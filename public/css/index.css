@@ -1,0 +1,38 @@
+.cv-flex {
+  display: flex;
+  width: 100%;
+  align-items: flex-start;
+}
+
+.cv-horizontal {
+  flex-direction: row;
+}
+
+.cv-vertical {
+  flex-direction: column;
+}
+
+.cv-centered {
+  align-items: center;
+  justify-content: center;
+}
+
+.cv-content {
+  transition: color .5s;
+}
+
+.cv-content:hover {
+  color: #a00 !important;
+}
+
+.add-post-tile {
+  transition: background-color .25s
+}
+
+.add-post-tile:hover {
+  background-color: #363636
+}
+
+.add-post-tile:hover > h1 {
+  color: white !important
+}

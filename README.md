@@ -9,7 +9,7 @@ $ php -S 0.0.0.0:8000
 # then, open in your browser at http://localhost:8000
 ```
 
-### Notes: DONOT run CVWA on WebServer!
+### Notes: DO NOT run CVWA on Public Network!
 
 ## Technology
 - PHP v7.0.0~
@@ -18,7 +18,7 @@ $ php -S 0.0.0.0:8000
 - fontawesome-free v5.6.3 (included)
 - jQuery v3.3.1 (included)
 
-## You can learn about:
+## You can learn about
 - Stored XSS Attack
 - HTML Injection
 - PHP Secure Web Programming (Encryption, Prepared Statement, etc)
@@ -30,4 +30,4 @@ $ php -S 0.0.0.0:8000
 # ALL EASY!
 So it might be possible for new learners to attack this blog.
 
-### All rights reserves | Clavin June 2019
+### All rights reserved | Clavin June 2019

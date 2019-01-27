@@ -6,7 +6,7 @@ Curious Vulnerability Web Application is A simple insecure blog made for LCAS to
 $ git clone git@github.com:ClavinJune/CVWebApp.git
 $ cd ./CVWebApp
 $ php -S 0.0.0.0:8000
-# then, open at your browser at http://localhost:8000
+# then, open in your browser at http://localhost:8000
 ```
 
 ### Notes: DONOT run CVWA on WebServer!

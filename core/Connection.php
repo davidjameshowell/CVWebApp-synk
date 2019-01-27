@@ -4,16 +4,18 @@
     private static $connection;
     private $mysqli;
 
-    private function __construct ()
+    private function __construct
+      (string $server, string $username, string $password,  string $database)
     {
-      $this->mysqli = mysqli_connect('localhost', 'demo', 'demo', 'demo')
-          or die('set your database configuration : ' . __FILE__);
+      $this->mysqli = mysqli_connect($server, $username, $password, $database)
+          or die('set your database configuration : ' . __DIR__ . "/bootstrap.php");
     }
 
-    public static function getInstance ()
+    public static function getInstance 
+      (string $server, string $username, string $password,  string $database)
     {
       if ( !isset($connection) ):
-        $connection = new Connection();
+        $connection = new Connection($server, $username, $password, $database);
       endif;
 
       return $connection;

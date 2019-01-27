@@ -22,7 +22,7 @@
   <div class="hero-body">
     <div class="container">
       <h2 class="subtitle">
-        <a href="https://github.com/clavinjune" target="_blank">
+        <a href="https://github.com/ClavinJune/CVWebApp" target="_blank">
           <i class="fab fa-github-square fa-lg"></i>
         </a>
         <a href="https://medium.com/@clavinjune" target="_blank">

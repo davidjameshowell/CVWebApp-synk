@@ -5,6 +5,8 @@ Curious Vulnerability Web Application is A simple insecure blog made for LCAS to
 ``` sh
 $ git clone git@github.com:ClavinJune/CVWebApp.git
 $ cd ./CVWebApp
+# import create+insert.sql to your MySQL
+# edit file core/bootstrap.php depends on your machine
 $ php -S 0.0.0.0:8000
 # then, open in your browser at http://localhost:8000
 ```

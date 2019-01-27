@@ -1,6 +1,15 @@
 # CVWebApp
 Curious Vulnerability Web Application is A simple insecure blog made for LCAS to learn about secure web applications.
 
+## How To Run
+``` sh
+$ git clone git@github.com:ClavinJune/CVWebApp.git
+$ cd ./CVWebApp
+$ php -S 0.0.0.0:8000
+```
+
+### Notes: DONOT run CVWA on WebServer!
+
 ## Technology
 - PHP v7.0.0~
 - MySQL v15.0~

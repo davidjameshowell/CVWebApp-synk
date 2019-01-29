@@ -14,3 +14,4 @@
 
 
   $router->post('/hacked', 'controllers/HackerController.php');
+  $router->get('/hash', 'controllers/HashController.php');

@@ -12,7 +12,6 @@
       $_SESSION['user'] = $user;
       setcookie('id', $user->id, time()+3600*24);
       setcookie('username', $user->username, time()+3600*24);
-      $_SESSION['_token'] = str_random(32);
       exit(header('Location: /'));
     endif;
     exit(header('Location: /login?err=1'));

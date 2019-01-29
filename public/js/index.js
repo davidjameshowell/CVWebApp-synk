@@ -35,7 +35,10 @@ const validateLogin = () => {
     message.text('Username / Password is empty')
     message.animate({
       opacity: '-=1'
-    }, 2500)
+    }, 2500, () => {
+      message.html('&nbsp;')
+      message.css('opacity', 1)
+    })
   }
 
   return !result

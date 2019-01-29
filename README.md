@@ -1,5 +1,5 @@
 # CVWebApp
-Curious Vulnerability Web Application is A simple insecure blog made for LCAS to learn about secure web applications.
+Curious Vulnerability Web Application is A simple insecure blog made for learn about secure web applications.
 
 ## How To Run
 ``` sh

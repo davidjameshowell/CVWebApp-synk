@@ -3,7 +3,7 @@
     <div class="container">
       <h1 class="title">Curious Vulnerability Web Application</h1>
       <h2 class="subtitle">
-        Simple insecure blog made for LCAS with love
+        Simple insecure blog made for learning purpose with love
         <span class="has-text-danger">&#128149;</span>
       </h2>
     </div>
